@@ -14,8 +14,8 @@ _(также используется определение «система к
 
 ## Установка git и VSCode на ваш ПК.
 
-*  Скачать с официального сайта git: https://git-scm.com/downloads
-
+* Скачать с официального сайта git: https://git-scm.com/downloads
+* Рекомендациями по установке git: https://git-scm.com/book/ru/v2/Введение-Установка-Git
 * VSCode: https://code.visualstudio.com/download
 
 ## Работа с VSCode:
